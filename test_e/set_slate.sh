@@ -1,0 +1,1 @@
+curl http://localhost:3000/conf/capture/yuv/slate320x240.yuv/320~240~25~2
